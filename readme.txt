@@ -2,7 +2,7 @@
 Contributors: transferuj.pl
 Tags: transferuj, merchant, payment gateway, wpec, wp e-commerce, e-commerce, polish gateway, polska brama płatności
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2
 
